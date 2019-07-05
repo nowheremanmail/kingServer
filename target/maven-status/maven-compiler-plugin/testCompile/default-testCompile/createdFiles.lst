@@ -1,9 +1,0 @@
-com\dag\king\service\impl\UsersServiceImplTest.class
-com\dag\king\repository\impl\ResultsRepositoryOtherImplTest.class
-com\dag\king\service\impl\ResultsServiceImplTest.class
-com\dag\king\service\impl\TokensServiceImplTest.class
-com\dag\king\repository\impl\TokensRepositoryImplTest.class
-com\dag\king\server\ServerTest.class
-com\dag\king\utils\UtilsTest.class
-com\dag\king\repository\impl\ResultsRepositoryImplTest.class
-com\dag\king\repository\impl\UsersRepositoryImplTest.class
